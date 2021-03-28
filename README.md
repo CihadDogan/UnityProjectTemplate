@@ -1,5 +1,5 @@
 # Unity Project Directory Template
-I use this directory template for hyper-casual and casual mobile game projects.
+I use this directory structure for hyper-casual and casual mobile game projects.
 
 ## Directory Structure
 * [Animations]()
