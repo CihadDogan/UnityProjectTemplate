@@ -10,6 +10,7 @@ blablabla
 * [Models]()
 * [PhsyicMaterials]()
 * [Prefabs]()
+* [Resources]()
 * [Scenes]()
 * [Scripts]()
 * [Shaders]()
