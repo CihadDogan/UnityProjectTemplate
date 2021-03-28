@@ -1,5 +1,5 @@
 # Unity Project Template
-Folder structure template for Unity game engine projects. I use this template for hyper-casual and casual mobile game projects. 
+Organization of a project starts with folder sturucture. Espacially in game development which contains different types of resources like scripts, models, audio files, sprites etc. directory organization becomes an important part of development. I use this template for hyper-casual and casual mobile game projects.
 
 * [Animations]()
 * [Audio]()
