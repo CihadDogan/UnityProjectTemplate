@@ -4,8 +4,6 @@ Organization of a software project starts with its directory structure. Espacial
 
 * [Animations]()
 * [Audio]()
-  * [Music]() 
-  * [FX]() 
 * [Materials]()
 * [Models]()
 * [PhsyicMaterials]()
