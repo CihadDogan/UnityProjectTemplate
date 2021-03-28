@@ -11,7 +11,7 @@ Organization of a software project starts with its directory structure. Espacial
 * [Resources]()
 * [Scenes]()
 * [Scripts]()
-  * [Editor]() Unity says developers must place Editor scripts in Editor folder for them to work correctly.
+  * [Editor]()
 * [Shaders]()
 * [Sprites]()
 * [Textures]()
