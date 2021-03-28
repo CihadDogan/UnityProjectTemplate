@@ -12,7 +12,7 @@ Folder structure template for Unity game engine projects. I use this template fo
 * [Resources]()
 * [Scenes]()
 * [Scripts]()
- * [Editor]() 
+  * [Editor]() 
 * [Shaders]()
 * [Sprites]()
 * [Textures]()
