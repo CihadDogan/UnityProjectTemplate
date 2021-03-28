@@ -5,8 +5,9 @@ Folder structure template for Unity game engine projects. I use this template fo
 blablabla
 
 * [Animations]()
-  * [Animations]() 
 * [Audio]()
+  * [Music]() 
+  * [FX]() 
 * [Materials]()
 * [Models]()
 * [PhsyicMaterials]()
