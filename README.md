@@ -17,4 +17,6 @@ Organization of a software project starts with its directory structure. Espacial
 * [Textures]()
 * [ThirdParty]()
 
-## Other Rules
+## Some Rules
+* Keep naming rules consistent.
+* Always use sub folders to save assets. Dont use the root. Create extra folder above if you really need special directory.
