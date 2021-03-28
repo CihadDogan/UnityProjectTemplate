@@ -15,6 +15,7 @@ blablabla
 * [Resources]()
 * [Scenes]()
 * [Scripts]()
+ * [Editor]() 
 * [Shaders]()
 * [Sprites]()
 * [Textures]()
